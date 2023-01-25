@@ -1,6 +1,6 @@
 # Assignment 5
 
-![Assignment 5](https://github.com/PGE383-HPC/assignment5-solution/actions/workflows/main.yml/badge.svg)
+![Assignment 5](https://github.com/PGE383-HPC/assignment5/actions/workflows/main.yml/badge.svg)
 
 The aim of this assignment is to use the vi/vim editor to edit a small C program, as well as use git and Github to create a new branch on the repository and open a Pull Request. 
 
